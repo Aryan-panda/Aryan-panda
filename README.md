@@ -55,17 +55,9 @@ Currently, I'm working towards becoming an **AI Engineer and DevOps Engineer**, 
 
 ---
 
-### GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryan-panda&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-panda&layout=compact&theme=github_dark&hide_border=true)
-
----
-
 ### Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/aryanpandadev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryanpandadev)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:imaryanpanda@gmail.com)
 
 I'm always interested in meaningful collaborations, research opportunities, and technically challenging projects.
